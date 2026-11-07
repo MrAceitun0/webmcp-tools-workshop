@@ -13,7 +13,7 @@ Creado por: [Sergi Olives](https://www.linkedin.com/in/sergiolives/)
 3. **Activa las WebMCP Flags:** Copia y pega este texto en el navegador de chrome y activalo:
 [chrome://flags/#enable-webmcp-testing](chrome://flags/#enable-webmcp-testing)
 4. **Instala [WebMCP Model Context Tools Inspector](https://chromewebstore.google.com/detail/webmcp-model-context-tool/gbpdfapgefenggkahomfgkhfehlcenpd?pli=1)**
-5. **Gemini API Key**: To use the Gemini integration of the extension, you will need a Gemini API key. You can get one from [Google AI Studio](https://aistudio.google.com/api-keys).
+5. **Gemini API Key**: Crea tu propia API Key en [Google AI Studio](https://aistudio.google.com/api-keys).
 6. **Inicia la web en un servidor HTTP**
 
 Opciones:
